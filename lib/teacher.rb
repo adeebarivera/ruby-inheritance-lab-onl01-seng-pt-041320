@@ -4,7 +4,7 @@ class Teacher
 
   
 end
-   def teach
+  def teach
 
     KNOWLEDGE.sample
 
