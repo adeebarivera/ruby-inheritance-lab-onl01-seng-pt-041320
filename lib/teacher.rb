@@ -4,3 +4,9 @@ class Teacher
 
   
 end
+   def teach
+
+    KNOWLEDGE.sample
+
+  end
+end
